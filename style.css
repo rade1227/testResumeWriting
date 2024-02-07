@@ -453,9 +453,10 @@ form .btn2{
     overflow-x: scroll;
 }
 .swiper-wrapper1 .item{
+    height:auto
     padding: 10px;
   background-color: #fff;
-    line-height: 150px;
+    line-height: 0px;
     margin-right: 1px;
     
 }
