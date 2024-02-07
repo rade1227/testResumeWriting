@@ -448,7 +448,7 @@ form .btn2{
 }
 .swiper-wrapper1{
 
-    max-height: 250px;
+/*     max-height: 250px; */
     display: flex;
     overflow-x: scroll;
 }
